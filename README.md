@@ -15,10 +15,13 @@ Comparison Plot of Features After Dimensionality Reduction:
 ![plots/pcatsnefeature.jpg](plots/pcatsnefeature.jpg)
 
 K-Means Elbow Plot:
+
 ![plots/kmeanselbow.jpg](plots/kmeanselbow.jpg)
 
 K-Means with 4 (four) clusters:
+
 ![plots/kmean4clusters.jpg](plots/kmean4clusters.jpg)
 
 K-Means with 5 (four) clusters:
+
 ![plots/kmean5clusters.jpg.jpg](plots/kmean5clusters.jpg)
