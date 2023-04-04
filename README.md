@@ -4,7 +4,7 @@ This assignment consisted of using python, pandas, and sklearn to build a machin
 # What the code does (in general terms)
 The **crypto_comparison.ipynb** code pre-processes the data by filtering for coin types that are have been mined and are currently being traded. Coin names and null values are removed, categorical data is converted to numeric, and the dataset is scaled.
 
-Dimensionality is reduced using Principle Component Analysis (PCA) and T-distributed Stochastic Neighbor Embedding (t-SNE).
+Dimensionality is reduced using Principal Component Analysis (PCA) and T-distributed Stochastic Neighbor Embedding (t-SNE).
 
 Cluster analysis is performed with k-means clustering.
 
