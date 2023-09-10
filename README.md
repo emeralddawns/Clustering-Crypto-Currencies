@@ -26,6 +26,6 @@ K-Means with 4 (four) clusters:
 ![plots/kmean4clusters.jpg](plots/kmean4clusters.jpg)
 
 
-K-Means with 5 (four) clusters:
+K-Means with 5 (five) clusters:
 
 ![plots/kmean5clusters.jpg.jpg](plots/kmean5clusters.jpg)
